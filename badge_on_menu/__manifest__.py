@@ -15,7 +15,7 @@
 #################################################################################
 {
     "name": "Badge - Menu",
-    "summary": "Show Pending Schedule Activity Counmter badge on Odoo menu",
+    "summary": "Show Pending Schedule Activity Counter badge on Odoo menu",
     "version": "12.0.1",
     "description": """Show Pending Schedule Activity Counter badge on Odoo menu""",
     "version" :  "1.0.0",
