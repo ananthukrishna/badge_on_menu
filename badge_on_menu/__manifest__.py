@@ -19,7 +19,7 @@
     "version": "12.0.1",
     "description": """Show Pending Schedule Activity Counter badge on Odoo menu""",
     "version" :  "1.0.0",
-    "author": "Ananthu Krishna",
+    "author": "CodersFort",
     "maintainer": "Ananthu Krishna",
     "website": "http://codersfort.com",
     "images": ["images/Banner.png"],
